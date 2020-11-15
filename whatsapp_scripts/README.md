@@ -1,5 +1,12 @@
 # Whatsapp scripts
 
+## Additional requirements
+```
+pip install pyautogui
+```
+
+Make sure that you have whatsapp desktop app installed and linked with your mobile with QR code scanned in your system, otherwise the script wont work as per the requirement.
+
 ## 1) bulk.py<br/>
 ```
 python bulk.py
@@ -21,3 +28,8 @@ From a csv file, saved in the current directory all the information is taken and
 python spam.py
 ```
 Inputs of target contact number,message,spam length are taken from the user, and then specified number of messages are sent to the target contact.
+
+<br/>
+<br/>
+
+Note: The script may or may not work in all kinds of systems. As pyautogui takes the display type of buttons into consideration which maybe different in different machines.
