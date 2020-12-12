@@ -24,3 +24,7 @@ c) Unfollowing required number of our following accounts.<br/>
 Contains automated scripts for:<br/>
 a) Sending messages to a large number of contacts, for which the information is saved in a csv file.<br/>
 b) Spamming a contact with a specified message.
+
+### 3) Aryabhatta scripts
+Contains automated scripts for:<br/>
+a) Fetching students academic related information.
